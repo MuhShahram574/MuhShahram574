@@ -36,9 +36,9 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🗒️ **NoteCraft** | LocalStorage-powered note app | [Live](#) |
-| 🍴 **Ajwa Restaurant** | Restaurant UI built in Tailwind CSS | [Live](#) |
-| 🍰 **Bakery Website** | Colorful, responsive bakery site | [Live](#) |
+| 🗒️ **Cook Delight** | LocalStorage-powered note app | [Live](https://muhshahram574.github.io/cook-delights-tailwindcss/) |
+| 🍴 **E-Learning** | Restaurant UI built in Tailwind CSS | [Live](https://muhshahram574.github.io/E-Learning-Website/) |
+| 🍰 **Bakery Website** | Colorful, responsive bakery site | [Live](https://muhshahram574.github.io/pig-game/) |
 
 ---
 

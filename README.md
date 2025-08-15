@@ -36,9 +36,9 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🗒️ **Cook Delight** | LocalStorage-powered note app | [Live](https://muhshahram574.github.io/cook-delights-tailwindcss/) |
-| 🍴 **E-Learning** | Restaurant UI built in Tailwind CSS | [Live](https://muhshahram574.github.io/E-Learning-Website/) |
-| 🍰 **Bakery Website** | Colorful, responsive bakery site | [Live](https://muhshahram574.github.io/pig-game/) |
+| 🗒️ **Cook Delight** | Restaurant UI built in Tailwind CS | [Live](https://muhshahram574.github.io/cook-delights-tailwindcss/) |
+| 🍴 **E-Learning** | Advance Tech feilds course | [Live](https://muhshahram574.github.io/E-Learning-Website/) |
+| 🍰 **Pigment Game** | Dice Roll Game | [Live](https://muhshahram574.github.io/pig-game/) |
 
 ---
 
